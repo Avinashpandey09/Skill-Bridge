@@ -1,0 +1,6 @@
+{
+  "name": "Skill Bridge",
+  "description": "AI-powered Career Operating System bridging academic education and industry expectations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
