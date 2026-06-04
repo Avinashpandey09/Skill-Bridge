@@ -65,7 +65,7 @@ Skill Bridge utilizes its own unique, custom proprietary logo and fixed visual i
 
 1. **Clone the repository:**
 ```bash
-   git clone [https://github.com/your-username/skill-bridge.git](https://github.com/your-username/skill-bridge.git)
+   git clone [https://github.com/Avinashpandey09/skill-bridge.git](https://github.com/Avinashpandey09/skill-bridge.git)
    cd skill-bridge
 
 ## Run Locally
